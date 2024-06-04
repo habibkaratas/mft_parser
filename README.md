@@ -20,4 +20,4 @@ Contributions and feedback are welcomed. Please refer to the [Contribution Guide
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). See the license file for details.
+This project is licensed under the [MIT License]. See the license file for details.
